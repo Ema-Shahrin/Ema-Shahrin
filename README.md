@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I talk to plants like friends.**
 
+- 🌍 Dreaming of **using tech to solve real-world problems and make a meaningful impact globally.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahrin ahmed ema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahrin ahmed ema" height="30" width="40" /></a>
