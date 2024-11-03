@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahrin Ahmed Ema</h1>
-<h3 align="center">A passionate flutter frontend developer from Bangladesh,Sylhet</h3>
+<h3 align="center">A passionate flutter frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="300" height="350" src="https://i.pinimg.com/564x/00/99/e7/0099e7487ce97c840eac443501475369.jpg">
+- 🎓 I am a final-year CSE student at Leading University in Sylhet.
 
 - 🔭 I’m currently working on a flutter project**➡️Ecosphere(Track and reduce carbon emissions effectively.)**
 
@@ -11,6 +12,8 @@
 - ⚡ Fun fact **I talk to plants like friends.**
 
 - 🌍 Dreaming of **using tech to solve real-world problems and make a meaningful impact globally.**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
